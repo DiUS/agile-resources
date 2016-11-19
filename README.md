@@ -3,7 +3,7 @@ A collection of useful reading, tools, articles and whatever else related to agi
 
 # Table of Contents
 1. [Agile Methodology](#agile-methodology)
-2. [Development / QA](#development-qa)
+2. [Development / QA](#development--qa)
 3. [Databases](#databases)
 4. [Books](#books)
 5. [Others](#others)
